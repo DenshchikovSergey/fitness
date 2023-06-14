@@ -1003,7 +1003,7 @@ p {
   color: white;
 }
 
-@media screen and (max-width: 1440px) {
+@media screen and (max-width: 1444px) {
   nav ul {
     gap: 4rem;
   }
